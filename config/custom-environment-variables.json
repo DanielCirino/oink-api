@@ -1,9 +1,0 @@
-{
-  "app": {
-    "APP_ADDRESS": "APP_ADDRESS"
-  },
-
-  "database": {
-    "MONGO_HOSTNAME": "MONGO_HOSTNAME"
-  }
-}

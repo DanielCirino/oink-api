@@ -1,0 +1,14 @@
+fastapi
+pymongo
+pytz
+pydantic
+python-dotenv
+pytest
+bcrypt
+PyJWT
+requests
+
+[dev]
+pytest
+pytest-cov
+setuptools
